@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages !
+## Welcome to Project Taipan !
 
-You can use the [editor on GitHub](https://github.com/taipanfiu/taipan-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Project Taipan combines of open-source software to procvide an end-to-end data analysis platform.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The [OpenSearch](https://github.com/opensearch-project) project provides us with:
 
-### Markdown
+- _OpenSearch_ a document store based on an open-source fork of Elasticsearch 7.10.2
+- _OpenSearch Dashboards_ a plugin-based data visualisation user-interface based on Kibana 7.10.2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The [Apache NiFi](https://nifi.apache.org/) project provides us with:
 
-```markdown
-Syntax highlighted code block
+- _Apache NiFi_ a graphical-based tool to create ingestion, transformation, and load workflows.
+- _Apache NiFi Regsistry_ a version control tool for Apache NiFi workflows.
 
-# Header 1
-## Header 2
-### Header 3
+The above software is packaged as Docker images, and configured as an entire turn-key solution via Docker compose.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taipanfiu/taipan-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
