@@ -4,8 +4,10 @@ Project Taipan combines of open-source software to procvide an end-to-end data a
 
 The [OpenSearch](https://github.com/opensearch-project) project provides us with:
 
-- _OpenSearch_ a document store (based on an open-source fork of Elasticsearch 7.10.2)
-- _OpenSearch Dashboards_ a plugin-based data visualisation user-interface (based on an open-source fork of Kibana 7.10.2)
+- _OpenSearch_ a document store 
+--- based on an open-source fork of Elasticsearch 7.10.2
+- _OpenSearch Dashboards_ a plugin-based data visualisation user-interface 
+--- based on an open-source fork of Kibana 7.10.2
 
 The [Apache NiFi](https://nifi.apache.org/) project provides us with:
 
