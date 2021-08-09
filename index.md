@@ -1,3 +1,5 @@
+![taipan image](https://avatars.githubusercontent.com/u/83996487?s=400&u=c5f7b4b5d4fe9737866744289ff3cae3a053452c&v=4)
+
 ## Welcome to Project Taipan !
 
 Project Taipan combines of open-source software to procvide an end-to-end data analysis platform.
